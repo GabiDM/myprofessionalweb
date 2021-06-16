@@ -217,8 +217,6 @@ button{
     }
 
     .texto{
-        font-size: 20px;
-        margin-top: 80px;
         text-align: center;
         align-items: center;
         justify-content: space-evenly;
@@ -228,7 +226,6 @@ button{
 
     .subtitulo{
         width: 40%;
-        font-size: 40px;
         text-align: center;
         margin-top: 70px;
         margin-left: 30%;
@@ -237,7 +234,6 @@ button{
 
     .form{
         width: 100%;
-        font-size: 15px;
         text-align: center;
     }
 
