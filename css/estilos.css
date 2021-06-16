@@ -259,7 +259,7 @@ button{
 /* finaliza responsive hasta 600 y comienza otro */
 
 
-@media all and (min-width: 350px) and (max-width: 599px){
+@media all and (max-width: 599px){
     .menu-navegacion{
         width: 20vw;
     }
@@ -274,7 +274,7 @@ button{
         align-items: center;
         margin-left: 10%;
         justify-content: space-evenly;
-        width: 80%;
+        width: 60%;
     }
 
     .subtitulo{
@@ -286,7 +286,7 @@ button{
     }
 
     .form{
-        width: 80%;
+        width: 60%;
         height: 350px;
         font-size: 10px;
         text-align: center;
