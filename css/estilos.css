@@ -267,8 +267,8 @@ button{
         font-size: 30px;
     }
 
-    .texto{
-        font-size: 20px;
+    .
+texto{
         margin-top: 80px;
         text-align: center;
         align-items: center;
@@ -279,7 +279,6 @@ button{
 
     .subtitulo{
         width: 45%;
-        font-size: 30px;
         text-align: center;
         margin-top: 20px;
         margin-left: 30%;
@@ -288,7 +287,6 @@ button{
     .form{
         width: 60%;
         height: 350px;
-        font-size: 10px;
         text-align: center;
     }
 
@@ -299,7 +297,7 @@ button{
     }
     
     button{
-        width: 70px;
+        width: 60%;
         height: 40px;
         font-size: 15px;
         margin: 5px auto;
