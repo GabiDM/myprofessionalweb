@@ -217,6 +217,8 @@ button{
     }
 
     .texto{
+        font-size: 20px;
+        margin-top: 80px;
         text-align: center;
         align-items: center;
         justify-content: space-evenly;
@@ -226,6 +228,7 @@ button{
 
     .subtitulo{
         width: 40%;
+        font-size: 40px;
         text-align: center;
         margin-top: 70px;
         margin-left: 30%;
@@ -234,6 +237,7 @@ button{
 
     .form{
         width: 100%;
+        font-size: 15px;
         text-align: center;
     }
 
@@ -255,7 +259,7 @@ button{
 /* finaliza responsive hasta 600 y comienza otro */
 
 
-@media all and (max-width: 599px){
+@media all and (min-width: 350px) and (max-width: 599px){
     .menu-navegacion{
         width: 20vw;
     }
@@ -263,18 +267,28 @@ button{
         font-size: 30px;
     }
 
-    .
-texto{
-        width: 60%;
+    .texto{
+        font-size: 20px;
+        margin-top: 80px;
+        text-align: center;
+        align-items: center;
+        margin-left: 10%;
+        justify-content: space-evenly;
+        width: 80%;
     }
 
     .subtitulo{
         width: 45%;
+        font-size: 30px;
+        text-align: center;
+        margin-top: 20px;
+        margin-left: 30%;
     }
 
     .form{
-        width: 60%;
+        width: 80%;
         height: 350px;
+        font-size: 10px;
         text-align: center;
     }
 
@@ -285,7 +299,7 @@ texto{
     }
     
     button{
-        width: 60%;
+        width: 70px;
         height: 40px;
         font-size: 15px;
         margin: 5px auto;
